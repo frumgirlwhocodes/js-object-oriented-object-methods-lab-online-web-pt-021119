@@ -3,4 +3,5 @@ function BoardMember(name, homestate, training){
   this.homestate= homestate 
   this.training= trainig 
   this.veto= function(){ return "No, I must disagree"} 
+  this.approve= function()
 }
