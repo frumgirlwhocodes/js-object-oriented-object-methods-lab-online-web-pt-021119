@@ -1,4 +1,6 @@
 function BoardMember(name, homestate, training){
   this.name= name
-  this
+  this.homestate= homestate 
+  this.training= trainig 
+  
 }
